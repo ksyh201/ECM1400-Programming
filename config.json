@@ -1,0 +1,9 @@
+{
+    "api_key": "b824cd621c344562825f86336b79c3f0",
+    "local_location": "Exeter",
+    "local_location_type": "ltla",
+    "national_location": "England",
+    "national_location_type": "nation",
+    "covid_terms": "Covid COVID-19 coronavirus",
+    "template": "index.html"
+}

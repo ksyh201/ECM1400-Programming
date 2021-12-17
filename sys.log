@@ -1,0 +1,58 @@
+2021-12-16 22:57:02,704 :: INFO :: A list of strings was created from a CSV file
+2021-12-16 22:57:37,188 :: INFO :: A list of strings was created from a CSV file
+2021-12-16 22:58:01,081 :: DEBUG :: Starting new HTTPS connection (1): newsapi.org:443
+2021-12-16 22:58:02,437 :: DEBUG :: https://newsapi.org:443 "GET /v2/top-headlines?q=covid&language=en&apiKey=b824cd621c344562825f86336b79c3f0 HTTP/1.1" 200 None
+2021-12-16 22:58:02,457 :: INFO :: Current news articles were accessed
+2021-12-16 22:58:02,457 :: DEBUG :: covid terms: ['covid']
+2021-12-16 22:58:02,462 :: DEBUG :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+2021-12-16 22:58:02,704 :: DEBUG :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data HTTP/1.1" 200 None
+2021-12-16 22:58:02,726 :: DEBUG :: Starting new HTTPS connection (1): newsapi.org:443
+2021-12-16 22:58:03,259 :: DEBUG :: https://newsapi.org:443 "GET /v2/top-headlines?q=covid&language=en&apiKey=b824cd621c344562825f86336b79c3f0 HTTP/1.1" 200 None
+2021-12-16 22:58:03,271 :: INFO :: Current news articles were accessed
+2021-12-16 22:58:03,271 :: DEBUG :: covid terms: ['covid']
+2021-12-16 22:58:03,271 :: INFO :: News is scheduled to update in 24 hours
+2021-12-16 22:58:49,583 :: INFO ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-16 23:04:20,868 :: INFO ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-16 23:04:43,922 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:43] "[33mGET / HTTP/1.1[0m" 404 -
+2021-12-16 23:04:45,019 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:45] "[33mGET / HTTP/1.1[0m" 404 -
+2021-12-16 23:04:45,189 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:45] "[33mGET / HTTP/1.1[0m" 404 -
+2021-12-16 23:04:48,612 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:48] "GET /index HTTP/1.1" 200 -
+2021-12-16 23:04:48,630 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:48] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+2021-12-16 23:04:51,506 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:51] "GET /index HTTP/1.1" 200 -
+2021-12-16 23:04:51,533 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:04:51] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+2021-12-16 23:16:28,160 :: INFO ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-16 23:16:34,691 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:16:34] "[33mGET / HTTP/1.1[0m" 404 -
+2021-12-16 23:16:41,110 :: INFO :: Flask interface has loaded
+2021-12-16 23:16:41,130 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:16:41] "GET /index HTTP/1.1" 200 -
+2021-12-16 23:16:41,150 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:16:41] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+2021-12-16 23:17:42,140 :: INFO :: Flask interface has loaded
+2021-12-16 23:17:42,142 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:17:42] "GET /index HTTP/1.1" 200 -
+2021-12-16 23:17:42,184 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:17:42] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+2021-12-16 23:18:42,292 :: INFO :: Flask interface has loaded
+2021-12-16 23:18:42,293 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:18:42] "GET /index HTTP/1.1" 200 -
+2021-12-16 23:18:42,333 :: INFO :: 127.0.0.1 - - [16/Dec/2021 23:18:42] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+2021-12-16 23:36:02,037 :: INFO :: A list of strings was created from a CSV file
+2021-12-17 00:58:34,287 :: INFO :: A list of strings was created from a CSV file
+2021-12-17 01:40:52,909 :: DEBUG :: Starting new HTTPS connection (1): newsapi.org:443
+2021-12-17 01:40:53,599 :: DEBUG :: https://newsapi.org:443 "GET /v2/top-headlines?q=covid&language=en&apiKey=b824cd621c344562825f86336b79c3f0 HTTP/1.1" 200 None
+2021-12-17 01:40:53,612 :: INFO :: Current news articles were accessed
+2021-12-17 01:40:53,612 :: DEBUG :: covid terms: ['covid']
+2021-12-17 01:40:53,612 :: DEBUG :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+2021-12-17 01:40:53,857 :: DEBUG :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data HTTP/1.1" 400 None
+2021-12-17 01:40:53,857 :: DEBUG :: Starting new HTTPS connection (1): newsapi.org:443
+2021-12-17 01:40:54,369 :: DEBUG :: https://newsapi.org:443 "GET /v2/top-headlines?q=covid&language=en&apiKey=b824cd621c344562825f86336b79c3f0 HTTP/1.1" 200 None
+2021-12-17 01:40:54,379 :: INFO :: Current news articles were accessed
+2021-12-17 01:40:54,379 :: DEBUG :: covid terms: ['covid']
+2021-12-17 01:40:54,379 :: INFO :: News is scheduled to update in 24 hours
+2021-12-17 01:52:19,895 :: DEBUG :: Starting new HTTPS connection (1): newsapi.org:443
+2021-12-17 01:52:20,679 :: DEBUG :: https://newsapi.org:443 "GET /v2/top-headlines?q=covid&language=en&apiKey=b824cd621c344562825f86336b79c3f0 HTTP/1.1" 200 None
+2021-12-17 01:52:20,697 :: INFO :: Current news articles were accessed
+2021-12-17 01:52:20,697 :: DEBUG :: covid terms: ['covid']
+2021-12-17 01:52:20,705 :: DEBUG :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+2021-12-17 01:52:20,857 :: DEBUG :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data HTTP/1.1" 200 None
+2021-12-17 01:52:20,889 :: DEBUG :: Starting new HTTPS connection (1): newsapi.org:443
+2021-12-17 01:52:21,420 :: DEBUG :: https://newsapi.org:443 "GET /v2/top-headlines?q=covid&language=en&apiKey=b824cd621c344562825f86336b79c3f0 HTTP/1.1" 200 None
+2021-12-17 01:52:21,435 :: INFO :: Current news articles were accessed
+2021-12-17 01:52:21,435 :: DEBUG :: covid terms: ['covid']
+2021-12-17 01:52:21,435 :: INFO :: News is scheduled to update in 24 hours
+2021-12-17 01:52:48,784 :: INFO :: A list of strings was created from a CSV file
